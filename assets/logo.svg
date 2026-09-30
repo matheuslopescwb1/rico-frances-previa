@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 96" role="img" aria-label="Rico Francês">
+  <style>@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&amp;family=Manrope:wght@700&amp;display=swap');</style>
+  <rect x="0" y="8" width="80" height="80" rx="20" fill="#14213D"/>
+  <polyline points="21,56 40,36 59,56" fill="none" stroke="#F07A4A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="69" r="4" fill="#F7F2EA"/>
+  <text x="100" y="56" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="44" letter-spacing="-0.8" fill="#14213D">Rico Francês</text>
+  <text x="102" y="80" font-family="Manrope, Arial, sans-serif" font-weight="700" font-size="12" letter-spacing="2.4" fill="#C8461E">FRANCÊS &amp; INGLÊS ONLINE</text>
+</svg>
